@@ -5,4 +5,4 @@ Bitbar Plugin to show open merge requests
 ## requirements
 
     brew cask install bitbar
-    brew install js
+    brew install jq
